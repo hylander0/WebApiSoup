@@ -145,6 +145,12 @@ Snippet from WebApiSoup / WebApiSoup / App_Start / WebApiConfig.cs
 
 ```
 
+
+ ###Contributors###
+
+    Justin Hyland (author) Email: justin.hyland@live.com
+
+
 ====
 
 
