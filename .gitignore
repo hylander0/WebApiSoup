@@ -45,6 +45,8 @@ build/
 *.pidb
 *.log
 *.scc
+*.mdf
+*.ldf
 
 # Visual C++ cache files
 ipch/
@@ -76,8 +78,6 @@ _TeamCity*
 *.ncrunch*
 .*crunch*.local.xml
 
-#Databases
-App_Data/
 
 # Installshield output folder
 [Ee]xpress/
